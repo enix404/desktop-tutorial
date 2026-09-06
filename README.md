@@ -90,16 +90,10 @@ Electronics & Communication Engineering
 
 📌 Featured Projects
 
-🚀 Project 01 — PG Finder Web Application
 
-A web-based application concept designed to help users find suitable PG accommodations easily.
 
-Tech Stack:
-"HTML" "CSS" "JavaScript" "React.js"
 
----
-
-🔐 Project 02 — Smart ATM Security & Password Management System
+🔐 Project 01 — Smart ATM Security & Password Management System
 
 An embedded security project using Arduino, keypad, LCD display, and buzzer to create a secure ATM-style password management system.
 
@@ -108,7 +102,7 @@ Tech Stack:
 
 ---
 
-💡 Project 03 — Ultrasonic Distance Detection System
+💡 Project 02 — Ultrasonic Distance Detection System
 
 An Arduino-based project that uses an ultrasonic sensor to detect distance and control LEDs based on the detected object distance.
 
